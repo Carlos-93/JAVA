@@ -5,9 +5,9 @@
 package helloworld;
 
 /**
- *      exercise 01 / compile a hello world on screen
+ *      EXERCISE 01 / COMPILE A HELLO WORLD ON SCREEN
  * 
- * @author Carlos
+ * @author Carlos-93
  */
 
 public class HelloWorld {
