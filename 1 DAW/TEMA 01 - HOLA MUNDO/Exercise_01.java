@@ -5,8 +5,6 @@
 package helloworld;
 
 /**
- *      EXERCISE 01 / COMPILE A HELLO WORLD ON SCREEN
- * 
  * @author Carlos-93
  */
 
